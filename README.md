@@ -35,3 +35,10 @@ The result is shown in the video, this website is deployed on Google App Engine.
   - 图表绘制：[highcharts](https://www.highcharts.com/)
 
 作业结果如视频所示，网页被部署在Google App Engine上。
+
+https://github.com/user-attachments/assets/4b290a23-e836-4424-8394-afc153a71df7
+
+
+
+https://github.com/user-attachments/assets/420d72a2-b921-4f4a-a6d8-65b9f5e2a71c
+
