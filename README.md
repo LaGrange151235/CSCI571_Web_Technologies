@@ -24,7 +24,7 @@ A responsive weather query website built with the following technologies:
   - [Angular v19](https://angular.dev/)
   - [ng-Bootstrap](https://ng-bootstrap.github.io/#/home)
   - Geolocation: [ipinfo.io](https://ipinfo.io/)和[Google Maps Platform, Geocoding API](https://developers.google.com/maps/documentation/geocoding/start)
-  - Autocomplete for location search: [Maps JavaScript API]([https://developers.google.com/maps/documentation/places/android-sdk/autocomplete](https://developers.google.com/maps/documentation/javascript/place-autocomplete))
+  - Autocomplete for location search: [Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/place-autocomplete)
   - Weather data visualization: [Highcharts Angular]([https://www.highcharts.com/](https://www.npmjs.com/package/highcharts-angular))
 The result is shown in the video, and the website was deployed on Google App Engine.
 
@@ -33,7 +33,7 @@ A weather query application for the Android platform based on Android API 35, fe
 - Weather query on app launch for the current location
   - Weather data: [Tomorrow.io](https://app.tomorrow.io/) RESTAPI
   - Geolocation: [Location APIs](https://developer.android.com/develop/sensors-and-location/location) in Google Play services
-- Autocomplete for location search: [Maps JavaScript API]([https://developers.google.com/maps/documentation/places/android-sdk/autocomplete](https://developers.google.com/maps/documentation/javascript/place-autocomplete))
+- Autocomplete for location search: [Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/place-autocomplete)
 - Saving favorite locations: [MongoDB](https://www.mongodb.com)
 - Weather data visualization: [Highcharts Android]([https://www.highcharts.com/](https://www.highcharts.com/blog/tutorials/highcharts-android-wrapper-tutorial/))
 The result is shown in the video.
@@ -64,8 +64,8 @@ The result is shown in the video.
   - [Angular v19](https://angular.dev/)
   - [ng-Bootstrap](https://ng-bootstrap.github.io/#/home)
   - 地理位置信息获取：[ipinfo.io](https://ipinfo.io/)和[Google Maps Platform, Geocoding API](https://developers.google.com/maps/documentation/geocoding/start)
-  - 地理位置查询自动补全：[Maps JavaScript API]([https://developers.google.com/maps/documentation/places/android-sdk/autocomplete](https://developers.google.com/maps/documentation/javascript/place-autocomplete))
-  - 天气数据可视化：[Highcharts Angular]([https://www.highcharts.com/](https://www.npmjs.com/package/highcharts-angular))
+  - 地理位置查询自动补全：[Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/place-autocomplete)
+  - 天气数据可视化：[Highcharts Angular](https://www.npmjs.com/package/highcharts-angular)
 实现结果如视频所示，网页被部署在Google App Engine上。
 
 ## 作业四
@@ -73,9 +73,9 @@ The result is shown in the video.
 - 开屏查询当前位置天气
   - 天气数据获取：[Tomorrow.io](https://app.tomorrow.io/) RESTAPI
   - 地理位置信息获取：[Location APIs](https://developer.android.com/develop/sensors-and-location/location) in Google Play services
-- 地理位置查询自动补全：[Maps JavaScript API]([https://developers.google.com/maps/documentation/places/android-sdk/autocomplete](https://developers.google.com/maps/documentation/javascript/place-autocomplete))
+- 地理位置查询自动补全：[Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/place-autocomplete)
 - 收藏常用地理位置：[MongoDB](https://www.mongodb.com)
-- 天气数据可视化：[Highcharts Android]([https://www.highcharts.com/](https://www.highcharts.com/blog/tutorials/highcharts-android-wrapper-tutorial/))
+- 天气数据可视化：[Highcharts Android](https://www.highcharts.com/blog/tutorials/highcharts-android-wrapper-tutorial/)
 实现结果如视频所示。
 
 https://github.com/user-attachments/assets/420d72a2-b921-4f4a-a6d8-65b9f5e2a71c
